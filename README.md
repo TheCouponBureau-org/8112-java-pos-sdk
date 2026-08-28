@@ -1,1 +1,0 @@
-# 8112-java-pos-sdk
